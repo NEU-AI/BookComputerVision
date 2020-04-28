@@ -1,0 +1,8 @@
+name: computer-vision-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - opencv
+  
