@@ -1,8 +1,12 @@
-name: computer-vision-environment
+name: python-3.7
 channels:
   - conda-forge
+  - defaults
 dependencies:
-  - numpy
-  - matplotlib
-  - opencv
+  - conda=4.8
+  - python=3.7
+  - numpy=1.15
+  - matplotlib=2.2
+  - opencv=3.4.2
+
   
